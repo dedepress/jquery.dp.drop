@@ -1,5 +1,6 @@
 /*
  * jQuery Dropdown
+ * http://dedepress.com
  */
 
 (function($) {
